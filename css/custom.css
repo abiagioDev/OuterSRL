@@ -1,0 +1,195 @@
+/*
+
+  Template Name: Mosque - Responsive html5 template
+  Author: http://wprand.com/
+  Version: 1.0
+
+  Note: This is the file where you can add your custom styles to change the look of the theme.
+  But don't modify "style.css" file.
+
+*/
+/* --------------------------------------------------------------
+  You can put your custom css code here:
+-------------------------------------------------------------- */
+
+/* --------------------------------------------------------------
+  Color palette
+  -------------------
+  blu
+  #878787
+
+    GRIGIO PRINCIPALE
+  #63666A
+
+  grigio chiaro?
+  #878787
+
+  altro grigio chiaro
+  #A3A3A3
+
+-------------------------------------------------------------- */
+
+/* nav	*/
+.nav{
+	text-transform: uppercase;
+}
+
+
+/* nav hover color  #878787	*/
+.primary-menu ul li.active > a, .primary-menu ul li:hover > a {
+    color: #63666A;
+}
+
+/* SCRITTE SLIDE */
+.slide-content h1 {
+    color: #fff;
+    font-size: 3vw;
+    line-height: 56px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+/* header TEXT IMG */
+.headerimg{
+	padding: 0 0 0 0;
+}
+
+/* header button */
+.slide-content .btn {
+    background: #63666A;
+    border: 1px solid #63666A;
+	border-radius: 0px;
+}
+/* header button */
+.slide-content .btn:hover{
+    background: #878787;
+    border: 1px solid #878787;
+	border-radius: 0px;
+}
+
+/* arrow slider */
+.slider-active button.slick-arrow:hover {
+    background: #878787;
+    border-color: #878787;
+}
+
+/* images hover icon lens */
+.team-memebr-image a::after {
+    background: #878787;
+}
+
+/* form button color */
+input[type="submit"], button[type="submit"] {
+    background: #666;
+    border: 1px solid #666;
+}
+
+/* form button hover color */
+button[type="submit"]:hover, button[type="submit"]:focus {
+    background: #878787;
+    border: 1px solid #878787;
+}
+
+/* abaut area section background */
+.about-area{
+	background: #F9F9F9;
+}
+
+.background-white {
+    background: #fff;
+}
+.background-grey {
+    background: #F9F9F9;
+}
+.background-dark-grey {
+    background: #63666A;
+}
+
+.section-call{
+	background: #63666A;
+}
+.section-call h2{
+	color: #ffffff;
+}
+.section-call .section-title h2::after{
+	background: #fff;
+}
+.section-call .section-title h2::before{
+	background: #878787;
+}
+.section-call .section-title p{
+	color: #A3A3A3;
+}
+
+.section-title h2:after {
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 3px;
+    bottom: -1px;
+    left: 0;
+    background: #A3A3A3;
+}
+/* SECTION AGEVOLAZIONI INDEX */
+@media only screen and (min-width: 767px) {
+
+.dueloghi-sinistra{
+	/* padding: 0 10% 0 30%; */
+	width: 90%;
+	display:block;
+	margin:0px auto;
+	text-align:center;
+	/* position: absolute; */
+	/* margin: auto; */
+	/* top: 0; */
+	/* left: 0; */
+	/* right: 0; */
+	/* bottom: 0; */
+}
+.dueloghi-destra{
+	/* padding: 0 30% 0 10%; */
+	width: 90%;
+	display:block;
+	margin:0px auto;
+	text-align:center;
+	/* position: absolute; */
+	/* margin: auto; */
+	/* top: 0; */
+	/* left: 0; */
+	/* right: 0; */
+	/* bottom: 0; */
+}
+}
+.icon-left-text-right{
+	padding: 0 5% 0 20%;
+}
+
+/* abaut area title underline
+.section-title h2:after {
+    background: #63666A;
+}
+*/
+
+.footer-widget .widget-gallery .gallery-item a::after {
+    background: #878787;
+}
+
+/* footer logo */
+.logo img{
+	max-width: 50%;
+}
+
+/* footer titoli */
+.footer-text-title {
+	color: #fff;
+}
+
+/* footer testo */
+.footer-text {
+	color: #fff;
+}
+
+/* footer colore sfondo copyright */
+.footer-bottom {
+    background: #F9F9F9;
+}
