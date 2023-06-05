@@ -52,14 +52,13 @@
         <div class="slider-area">
             <div class="slider-active">
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
-                    <img src="images/slider/75slide1.jpg" class="d-none d-md-flex cursor-pointer" alt="">
-                    <img src="images/slider/75slide1_mobile.jpeg" class="d-md-none d-flex cursor-pointer" alt="">
+                    <img src="images/slider/75slide1.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
+                    <img src="images/slider/75slide1_mobile.jpeg" class="d-md-none d-flex cursor-pointer w-100" alt="">
                 </div>
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
-                    <img src="images/slider/75slide2.jpg" class="d-none d-md-flex cursor-pointer" alt="">
-                    <img src="images/slider/75slide2_mobile.jpeg" class="d-md-none d-flex cursor-pointer" alt="">
-                </div>
-                
+                    <img src="images/slider/75slide2.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
+                    <img src="images/slider/75slide2_mobile.jpeg" class="d-md-none d-flex cursor-pointer w-100" alt="">
+                </div>                
 
                 <div class="single-slider slide-height d-flex align-items-center"
                     style="background-image:url(images/slider/slide1.jpg)">
