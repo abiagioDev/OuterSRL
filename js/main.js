@@ -50,16 +50,22 @@
             doAnimations($animatingElements);
         });
         BasicSlider.slick({
-            autoplay: true,
-            autoplaySpeed: 3000,
-            dots: true,
-            fade: true,
-            prevArrow: '<button type="button" class="slick-prev">PR<br>EV</button>',
-            nextArrow: '<button type="button" class="slick-next">NE<br>XT</button>',
-            arrows: true,
-            responsive: [
-                { breakpoint: 992, settings: { dots: true, arrows: false } }
-            ]
+          autoplay: true,
+          autoplaySpeed: 3000,
+          dots: true,
+          fade: true,
+          adaptiveHeight: true,
+          prevArrow:
+            '<button type="button" class="slick-prev">PR<br>EV</button>',
+          nextArrow:
+            '<button type="button" class="slick-next">NE<br>XT</button>',
+          arrows: true,
+          responsive: [
+            {
+              breakpoint: 992,
+              settings: { dots: true, arrows: false, adaptiveHeight: true },
+            },
+          ],
         });
 
         function doAnimations(elements) {
