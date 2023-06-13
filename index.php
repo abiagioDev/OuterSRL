@@ -277,7 +277,7 @@
                                     chiavi.<br>
                                     </p>
                                 <div class="about-action mt-30">
-                                    <a class="btn btn-custom text-uppercase mb-2" href="75infattura.php">75% sconto in fattura</a>
+                                    <a class="btn btn-custom px-1 mb-2" href="75infattura.php">75% sconto in fattura</a>
                                     <a class="btn " href="dual-block.php">Scopri di più</a>
                                     
                                 </div>

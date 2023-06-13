@@ -85,15 +85,15 @@
                                     architettoniche.</h1>
                             </div>
                             <div class="about-info">
-                                <p style="font-weight: 400;">Riqualifica i tuoi ambienti, oggi puoi avere un design
+                                <p>Riqualifica i tuoi ambienti, oggi puoi avere un design
                                     minimale ed elegante in casa tua&nbsp; con una <strong>detrazione fiscale del
                                         75%</strong> rimborsabile in 5 quote annuali o beneficiare ancora dello
                                     <strong>sconto in fattura</strong> .</p>
-                                <p style="font-weight: 400;">Le agevolazioni spettano sia al privato che
+                                <p>Le agevolazioni spettano sia al privato che
                                     all&rsquo;impresa, l&rsquo;intervento pu&ograve; essere effettuato su immobili o
                                     condomini dove non necessariamente siano presenti persone con disabilit&agrave;,
                                     permettendo cos&igrave; di superare ogni barriera architettonica</p>
-                                <p style="font-weight: 400;">Puoi godere di tutto questo sia sulle parti comuni sia
+                                <p>Puoi godere di tutto questo sia sulle parti comuni sia
                                     sulle singole unit&agrave; immobiliari, facendo riferimento a diverse categorie
                                     di lavori, come le grate a scomparsa <strong>DUALBLOCK </strong>con chiusure
                                     automatiche senza utilizzo di chiavi<strong> </strong>o come i nostri
@@ -118,19 +118,18 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <div class="section-title text-center">
+                            <div class="section-title  ">
                                 <h2>COME CALCOLARE IL TOTALE DELLA DETRAZIONE</h2>
                             <p>Il totale della detrazione deve essere calcolato su un importo complessivo non superiore
                                 a limiti prestabiliti in base al numero di unità familiari:</p>
-                            <ul style="list-style:none">
-                                <li><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unità
+                            
+                                <br><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unità
                                     immobiliari inseriti in contesti di edifici plurifamiliari che siano indipendenti e
-                                    dispongano di uno o più accessi autonomi dall'esterno.</li>
-                                <li><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che
-                                    costituisce un edificio da due a otto unità.</li>
-                                <li><strong>30.000€</strong> di spesa massima per ciascuna unità immobiliare che
-                                    costituisce un edificio con più di otto unità.</li>
-                            </ul>
+                                    dispongano di uno o più accessi autonomi dall'esterno.
+                                <br><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che
+                                    costituisce un edificio da due a otto unità.
+                                <br><strong>30.000€</strong> di spesa massima per ciascuna unità immobiliare che
+                                    costituisce un edificio con più di otto unità.
                             </div>
                         </div>
 
