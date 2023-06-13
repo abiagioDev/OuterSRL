@@ -104,7 +104,7 @@
                                     Dec. Ministeriale n. 236 del 14/06/1989.</p>
                             </div>
                         </div>
-                        <img src="images/banner/75slide1.jpg" alt="">
+                        <img src="images/banner/75slide2.jpg" alt="">
 
                     </div>
 
@@ -120,11 +120,17 @@
                         <div class="col-12">
                             <div class="section-title text-center">
                                 <h2>COME CALCOLARE IL TOTALE DELLA DETRAZIONE</h2>
-                                <p>Il totale della detrazione deve essere calcolato su un importo complessivo non
-                                    superiore a limiti prestabiliti in base al numero di unità familiari:
-                                    50.000€ di spesa massima per edifici
-                                    unifamiliari o unità immobiliari inseriti in contesti di edifici plurifamiliari
-                                    che siano indipendenti e dispongano di uno o più accessi autonomi dall'esterno;</p>
+                            <p>Il totale della detrazione deve essere calcolato su un importo complessivo non superiore
+                                a limiti prestabiliti in base al numero di unità familiari:</p>
+                            <ul style="list-style:none">
+                                <li><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unità
+                                    immobiliari inseriti in contesti di edifici plurifamiliari che siano indipendenti e
+                                    dispongano di uno o più accessi autonomi dall'esterno.</li>
+                                <li><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che
+                                    costituisce un edificio da due a otto unità.</li>
+                                <li><strong>30.000€</strong> di spesa massima per ciascuna unità immobiliare che
+                                    costituisce un edificio con più di otto unità.</li>
+                            </ul>
                             </div>
                         </div>
 

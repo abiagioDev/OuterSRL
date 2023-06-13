@@ -193,3 +193,8 @@ button[type="submit"]:hover, button[type="submit"]:focus {
 .footer-bottom {
     background: #F9F9F9;
 }
+
+.btn.btn-custom{
+    background-color: #666666 !important;
+    color: white!important;
+}

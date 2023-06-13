@@ -53,11 +53,11 @@
             <div class="slider-active">
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
                     <img src="images/slider/75slide1.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
-                    <img src="images/slider/75slide1_mobile.jpeg" class="d-md-none d-flex cursor-pointer w-100" alt="">
+                    <img src="images/slider/75slide1_mobile.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
                 </div>
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
                     <img src="images/slider/75slide2.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
-                    <img src="images/slider/75slide2_mobile.jpeg" class="d-md-none d-flex cursor-pointer w-100" alt="">
+                    <img src="images/slider/75slide2_mobile.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
                 </div>                
 
                 <div class="single-slider slide-height d-flex align-items-center"
@@ -274,8 +274,10 @@
                                         grate oscuranti e persiane a scomparsa,</strong> certificato anti intrusione
                                     classe4. Dotato di sistemi di chiusura brevettati con azionamento automatico,
                                     comandi semplici, integrabili ad un sistema di domotica, senza bisogno di
-                                    chiavi.<br><strong> <a class="text-uppercase" href="75infattura.php">75% sconto in fattura</a></strong></p>
+                                    chiavi.<br>
+                                    </p>
                                 <div class="about-action mt-30">
+                                    <a class="btn btn-custom text-uppercase mb-2" href="75infattura.php">75% sconto in fattura</a>
                                     <a class="btn " href="dual-block.php">Scopri di più</a>
                                     
                                 </div>
@@ -371,10 +373,11 @@
                                         <div class="desc">
                                             Sono la soluzione alla tua voglia di <br> Essenziale. <strong>Ampie
                                                 vetrate</strong> profili sottili, puro design.
-                                                <strong><br> <a class="text-uppercase" href="75infattura.php">75% sconto in
-                                                        fattura</a></strong>
+                                                <strong><br></strong>
                                         </div>
-                                        <a class="btn btn-theme" href="vetrate-scorrevoli-minimal.php"
+                                         <a class="btn btn-custom px-4 mb-2" href="75infattura.php">75% sconto in
+                                             fattura</a>
+                                        <a class="btn " href="vetrate-scorrevoli-minimal.php"
                                             title="Vetrate Scorrevoli Minimal Roma"
                                             alt="Vetrate Scorrevoli Minimal Roma">Scopri di più</a>
                                     </div>
@@ -397,7 +400,7 @@
                                                 gli spazi esterni</strong> della tua casa in condizioni termiche
                                             ottimali.</strong>
                                         </div>
-                                        <a class="btn btn-theme" href="serre-bioclimatiche.php"
+                                        <a class="btn " href="serre-bioclimatiche.php"
                                             title="Serre Bioclimatiche Roma" alt="Serre Bioclimatiche Roma">Scopri di
                                             più</a>
                                     </div>
@@ -416,7 +419,7 @@
                                             Ti permettono di vivere la tua zona living esterna in totale armonia.
                                             <strong>Filtrare il sole</strong> creando delle zone d’ombra regolabili.
                                         </div>
-                                        <a class="btn btn-theme" href="pergotende.php" title="Pergotende Roma"
+                                        <a class="btn " href="pergotende.php" title="Pergotende Roma"
                                             alt="Pergotende Roma">Scopri di più</a>
                                     </div>
                                 </div>
@@ -440,7 +443,7 @@
                                             <strong>Scegli l’inclinazione perfetta delle lamelle</strong> e goditi il
                                             tuo sole o proteggiti dalla pioggia. Design e comfort in un solo gesto.
                                         </div>
-                                        <a class="btn btn-theme" href="pergole-a-lamelle-orientabili.php">Scopri di
+                                        <a class="btn " href="pergole-a-lamelle-orientabili.php">Scopri di
                                             più</a>
                                     </div>
                                 </div>
@@ -467,7 +470,7 @@
                                             Le Pergole a Lamelle Orientabili Retraibili a differenza delle pergole a
                                             lamelle orientabili fanno si chesi retraggono totalmente.
                                         </div>
-                                        <a class="btn btn-theme" href="pergola-a-lamelle-orientabili-retraibili.php"
+                                        <a class="btn " href="pergola-a-lamelle-orientabili-retraibili.php"
                                             title="Pergole a Pannelli Orientabili Retrattili Roma"
                                             alt="Pergole a Pannelli Orientabili Retrattili Roma">Scopri di più</a>
                                     </div>
@@ -491,7 +494,7 @@
                                             Il vantaggio della pergola fotovoltaica è la possibilità di unire tecnologia
                                             e design al servizio dell’ambiente.
                                         </div>
-                                        <a class="btn btn-theme" href="pergola-fotovoltaica.php"
+                                        <a class="btn " href="pergola-fotovoltaica.php"
                                             title="Pergole Fotovoltaiche Roma" alt="Pergole Fotovoltaiche Roma">Scopri
                                             di più</a>
                                     </div>
@@ -515,7 +518,7 @@
                                             Il carport fotovoltaico, ti permette di proteggere la tua auto
                                             producendo energia green.
                                         </div>
-                                        <a class="btn btn-theme" href="carport_fotovoltaico.php"
+                                        <a class="btn " href="carport_fotovoltaico.php"
                                             title="Carport Fotovoltaico Roma" alt="Carport Fotovoltaico Roma">Scopri di
                                             più</a>
                                     </div>
@@ -537,7 +540,7 @@
                                             Regalano la giusta copertura permettendoti di sfruttare al meglio la zona
                                             esterna.
                                         </div>
-                                        <a class="btn btn-theme" href="tende-da-sole.php">Scopri di più</a>
+                                        <a class="btn " href="tende-da-sole.php">Scopri di più</a>
                                     </div>
                                 </div>
                             </div>
@@ -554,7 +557,7 @@
                                             Sono la giusta soluzione per la tua privacy. Puoi <strong>filtrare il
                                                 sole</strong> con diverse inclinazioni.
                                         </div>
-                                        <a class="btn btn-theme" href="frangi-vista.php">Scopri di più</a>
+                                        <a class="btn " href="frangi-vista.php">Scopri di più</a>
                                     </div>
                                 </div>
                             </div>
