@@ -176,7 +176,7 @@
                         <div class="col-12 col-md-3 section-call">
                             <div class="section-title">
                                 <p></p>
-                                <h2>50%-75%-110%"</h2>
+                                <h2>50%-75%"</h2>
                                 <p>DETRAZIONE FISCALE SCONTO DIRETTAMENTE IN FATTURA</p>
                             </div>
                         </div>
