@@ -53,13 +53,41 @@
             <div class="slider-active">
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
                     <img src="images/slider/75slide1.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
-                    <img src="images/slider/75slide1_mobile.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
+                    <img src="images/slider/75slide1.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
                 </div>
                 <div class="single-slider" onclick="window.location.href='75infattura.php'">
                     <img src="images/slider/75slide2.jpg" class="d-none d-md-flex cursor-pointer w-100" alt="">
-                    <img src="images/slider/75slide2_mobile.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
-                </div>                
+                    <img src="images/slider/75slide2.jpg" class="d-md-none d-flex cursor-pointer w-100" alt="">
+                </div>   
+                <div class="single-slider">
+                    <img src="images/slider/slide1.jpg" class="w-100">
 
+                </div>
+
+                <div class="single-slider">
+                    <img src="images/slider/slide2.jpg" class="w-100">
+
+                </div>
+
+                <div class="single-slider">
+                    <img src="images/slider/slide3.jpg" class="w-100">
+
+                </div>
+
+                <div class="single-slider">
+                    <img src="images/slider/slide4.jpg" class="w-100">
+
+                </div>
+
+                <div class="single-slider">
+                    <img src="images/slider/slide5.jpg" class="w-100">
+
+                </div>
+
+                <div class="single-slider">
+                    <img src="images/slider/slide6.jpg" class="w-100">
+                </div>
+<!-- 
                 <div class="single-slider slide-height d-flex align-items-center"
                     style="background-image:url(images/slider/slide1.jpg)">
                     <div class="container">
@@ -69,7 +97,7 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                    <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> 
                                 </div>
                             </div>
                         </div>
@@ -85,7 +113,7 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                     <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a>
                                 </div>
                             </div>
                         </div>
@@ -101,7 +129,7 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                     <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> 
                                 </div>
                             </div>
                         </div>
@@ -117,7 +145,7 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                     <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> 
                                 </div>
                             </div>
                         </div>
@@ -133,7 +161,7 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                     <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> 
                                 </div>
                             </div>
                         </div>
@@ -149,12 +177,12 @@
                                     <h2 data-animation="fadeInUp" data-delay=".5s"></h2>
                                     <h1 data-animation="fadeInUp" data-delay="1s"></h1>
                                     <p data-animation="fadeInUp" data-delay="1.5s"></p>
-                                    <!-- <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> -->
+                                     <a class="btn" href="#" data-animation="" data-delay="">Scopri di più</a> 
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- hero slider end -->

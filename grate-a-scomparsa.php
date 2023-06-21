@@ -175,11 +175,11 @@
 													<img src="images/gallery/grate-scomparsa-9-585x363.jpg" alt="gallery_img">
 												</a>
 											</div>
-                                            <div class="gallery-item">
+                                            <!-- <div class="gallery-item">
                                                 <a class="gallery-image" href="images/gallery/DUAL-BLOCK-2.jpg">
                                                     <img src="images/gallery/DUAL-BLOCK-2-585x363.jpg" alt="gallery_img">
                                                 </a>
-                                            </div>
+                                            </div> -->
 
                                             <div class="gallery-item">
                                                 <a class="gallery-image" href="images/gallery/DUAL-BLOCK-6.jpg">
@@ -216,12 +216,12 @@
                                                     <img src="images/gallery/DUAL-BLOCK-4-585x363.jpg" alt="gallery_img">
                                                 </a>
                                             </div>
-
+<!-- 
                                             <div class="gallery-item">
                                                 <a class="gallery-image" href="images/gallery/DUAL-BLOCK-9.jpg">
                                                     <img src="images/gallery/DUAL-BLOCK-9-585x363.jpg" alt="gallery_img">
                                                 </a>
-                                            </div>
+                                            </div> -->
 
                                             <div class="gallery-item">
                                                 <a class="gallery-image" href="images/gallery/DUAL-BLOCK-5.jpg">

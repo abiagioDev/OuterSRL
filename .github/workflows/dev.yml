@@ -1,7 +1,7 @@
 on: 
   push:   
     branches: [dev]
-name: 🚀 Deploy website on push - DEV MODE
+name: 🚀 Deploy on DEV
 jobs:
   web-deploy:
     name: 🎉 Deploy
