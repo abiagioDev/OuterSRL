@@ -9,7 +9,7 @@
 			$description = "Rinnova i tuoi ambienti con uno sconto del 75% su infissi dal design minimalista ed elegante. Scopri
 			come eliminare le barriere architettoniche e beneficiare di detrazioni fiscali. Sia che tu sia un privato che
 			un'impresa, approfitta delle agevolazioni per migliorare l'accessibilità e l'adattabilità della tua casa. Scopri le
-			grate a scomparsa DUALBLOCK e gli infissi slim ergonomici che soddisfano i requisiti di accessibilità e visibilità.
+			grate a scomparsa DUALBLOCK e gli infissi slim ergonomici che soddisfano i requisiti di accessibilità e visitabilità.
 			Calcola facilmente il totale della detrazione e goditi un'ambiente moderno e funzionale";
 			$bannerimage = "images/banner/75slide1.jpg";
 		?>
@@ -99,8 +99,8 @@
                                     automatiche senza utilizzo di chiavi<strong> </strong>o come i nostri
                                     <strong>infissi slim</strong> dal design ergonomico con guide rinvasate o ad
                                     incasso, con la finalit&agrave; di abbattere gli ostacoli che creano disagio alla
-                                    mobilit&agrave; e di soddisfare tre requisiti fondamentali:
-                                    <strong>accessibilit&agrave; e visibilit&agrave;</strong>.
+                                    mobilit&agrave; e di soddisfare due requisiti fondamentali:
+                                    <strong>accessibilit&agrave; e visitabilit&agrave;</strong>.
                                     Dec. Ministeriale n. 236 del 14/06/1989.</p>
                             </div>
                         </div>
