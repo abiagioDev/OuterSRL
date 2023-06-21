@@ -176,14 +176,14 @@
                         <div class="col-12 col-md-3 section-call">
                             <div class="section-title">
                                 <p></p>
-                                <h2>50%-75%"</h2>
+                                <h2>50%-75%</h2>
                                 <p>DETRAZIONE FISCALE SCONTO DIRETTAMENTE IN FATTURA</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-3 section-call">
                             <div class="section-title">
                                 <p></p>
-                                <h2>10%</h2>
+                                <h2>4%-10%</h2>
                                 <p>IVA AGEVOLATA</p>
                             </div>
                         </div>

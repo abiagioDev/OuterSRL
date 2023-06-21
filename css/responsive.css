@@ -410,8 +410,10 @@
 	}
 	.footer-widget .widget-contact .logo {
 		margin-bottom: 20px;
-		background: rgba(255,255,255,.3);
 		text-align:center;
+	}
+	.footer-widget .widget-contact .logo img{
+		background: rgba(255,255,255,.3);
 	}
 	.footer-copyright {
 		font-size: 14px;

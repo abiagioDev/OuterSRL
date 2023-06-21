@@ -61,7 +61,7 @@
                     <div class="col-12">
                         <div class="page-heading text-center">
                             <h2 class="page-title">
-                                PURO DEISGN CON UNO SCONTO IN FATTURA DEL 75%
+                                PURO DESIGN CON UNO SCONTO IN FATTURA DEL 75%
                             </h2>
                             <div class="page-breadcrumb">
                                 <span></span>
@@ -100,11 +100,11 @@
                                     <strong>infissi slim</strong> dal design ergonomico con guide rinvasate o ad
                                     incasso, con la finalit&agrave; di abbattere gli ostacoli che creano disagio alla
                                     mobilit&agrave; e di soddisfare tre requisiti fondamentali:
-                                    <strong>accessibilit&agrave;, adattabilit&agrave; e visibilit&agrave;</strong>.
+                                    <strong>accessibilit&agrave; e visibilit&agrave;</strong>.
                                     Dec. Ministeriale n. 236 del 14/06/1989.</p>
                             </div>
                         </div>
-                        <img src="images/banner/75slide2.jpg" alt="">
+                        <img src="images/banner/75slide2_noscopri.jpg" alt="">
 
                     </div>
 
