@@ -97,7 +97,7 @@
                                     sulle singole unit&agrave; immobiliari, facendo riferimento a diverse categorie
                                     di lavori, come le grate a scomparsa <strong>DUALBLOCK </strong>con chiusure
                                     automatiche senza utilizzo di chiavi<strong> </strong>o come i nostri
-                                    <strong>infissi slim</strong> dal design ergonomico con guide rinvasate o ad
+                                    <strong>infissi slim</strong> dal design ergonomico con guide ribassate o ad
                                     incasso, con la finalit&agrave; di abbattere gli ostacoli che creano disagio alla
                                     mobilit&agrave; e di soddisfare due requisiti fondamentali:
                                     <strong>accessibilit&agrave; e visitabilit&agrave;</strong>.
