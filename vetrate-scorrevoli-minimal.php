@@ -148,6 +148,11 @@
 												<img src="images/gallery/vetrate-scorrevoli-minimal-10-585x363.jpg" alt="gallery_img">
 											</a>
 										</div>
+										<div class="gallery-item">
+											<a class="gallery-image" href="images/gallery/villa_alberata_vetrateminimal.jpeg">
+												<img src="images/gallery/villa_alberata_vetrateminimal-585x363.jpeg" alt="gallery_img">
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>

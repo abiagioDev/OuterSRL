@@ -1,7 +1,7 @@
 on: 
   push:   
-    branches: [main]
-name: 🚀 ✅ Deploy on LIVE 
+    branches: [dev]
+name: 🚀 Deploy on DEV
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -16,4 +16,4 @@ jobs:
         server: ftp.dualblock.it
         username: 6017297@aruba.it
         password: ${{ secrets.ftp_password }}
-        server-dir: /www.outersrl.it/
+        server-dir: /www.outersrl.it/dev/

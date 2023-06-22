@@ -175,6 +175,33 @@ si possono installare senza alcuna autorizzazione.<br>
 													<img src="images/gallery/total-view-13-585x363.jpg" alt="gallery_img">
 												</a>
 											</div>
+                                            <div class="gallery-item">
+                                                <a class="gallery-image" href="images/gallery/TOTAL-VIEW-1.jpeg">
+                                                    <img src="images/gallery/TOTAL-VIEW-1-585x363.jpeg"
+                                                        alt="gallery_img">
+                                                </a>
+                                            </div>
+
+                                            <div class="gallery-item">
+                                                <a class="gallery-image" href="images/gallery/TOTAL-VIEW-3.jpeg">
+                                                    <img src="images/gallery/TOTAL-VIEW-3-585x363.jpeg"
+                                                        alt="gallery_img">
+                                                </a>
+                                            </div>
+
+                                            <div class="gallery-item">
+                                                <a class="gallery-image" href="images/gallery/TOTAL-VIEW-2.jpeg">
+                                                    <img src="images/gallery/TOTAL-VIEW-2-585x363.jpeg"
+                                                        alt="gallery_img">
+                                                </a>
+                                            </div>
+
+                                            <div class="gallery-item">
+                                                <a class="gallery-image" href="images/gallery/TOTAL-VIEW.jpeg">
+                                                    <img src="images/gallery/TOTAL-VIEW-585x363.jpeg" alt="gallery_img">
+                                                </a>
+                                            </div>
+
 										</div>
 									</div>
 								</div>

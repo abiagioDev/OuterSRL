@@ -153,10 +153,17 @@
 												</a>
 											</div>
 											<div class="gallery-item">
-												<a class="gallery-image" href="images/gallery/persiana-a-scomparsa-840x600-6.jpg">
-													<img src="images/gallery/persiana-a-scomparsa-6-585x363.jpg" alt="gallery_img">
-												</a>
+											    <a class="gallery-image" href="images/gallery/persiana-a-scomparsa-840x600-6.jpg">
+											        <img src="images/gallery/persiana-a-scomparsa-6-585x363.jpg" alt="gallery_img">
+											    </a>
 											</div>
+                                            	<div class="gallery-item">
+                                            	    <a class="gallery-image"
+                                            	        href="images/gallery/DUAL-BLOCK-7.jpg">
+                                            	        <img src="images/gallery/DUAL-BLOCK-7-585x363.jpg"
+                                            	            alt="gallery_img">
+                                            	    </a>
+                                            	</div>
 
 										</div>
 									</div>
