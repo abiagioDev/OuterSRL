@@ -126,7 +126,7 @@
                                 <br><h3>UNITÀ ABITATIVE </h3>
                                 <br><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unità
                                     immobiliari inseriti in contesti di edifici plurifamiliari che siano indipendenti e
-                                    dispongano di uno o più accessi autonomi dall'esterno.<br>
+                                    dispongano di uno o più accessi autonomi dall'esterno.
 
                                 <br><h3>ZONE COMUNI CONDOMINIALI</h3>
                                 <br><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che
