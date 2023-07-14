@@ -72,7 +72,7 @@
 												<li><a href="pergole-a-lamelle-orientabili.php" title="Pergole a Lamelle Orientabili Roma, Pergole da Giardino Roma" alt="Le Pergole a Lamelle Orientabili regolano la penetrazione dei raggi solari. Vantaggio, della pergole a lamelle orientabili, edilizia libera Detrazione fiscale 50%.">PERGOLE A LAMELLE ORIENTABILI</a></li>
 												
 												<li><a href="pergola-a-lamelle-orientabili-retraibili.php" title="Pergole a Lamelle Orientabili Retraibili Roma, Pergole da Giardino Roma" alt="Le Pergole a Lamelle Orientabili Retraibili regolano la penetrazione dei raggi solari. Vantaggio, della pergole a lamelle orientabili retraibili, edilizia libera Detrazione fiscale 50%.">PERGOLE A LAMELLE ORIENTABILI RETRAIBILI</a></li>
-												<li><a href="pergola-fotovoltaica.php" title="Pergole fotovoltaiche Roma, Pergole fotovoltaica da Giardino Roma" alt="Le Pergole fotovoltaiche regolano la penetrazione dei raggi solari. Vantaggio, della pergole fotovoltaiche, edilizia libera Detrazione fiscale 50%.">PERGOLE FOTOVOLTAICHE</a></li>
+												<!--<li><a href="pergola-fotovoltaica.php" title="Pergole fotovoltaiche Roma, Pergole fotovoltaica da Giardino Roma" alt="Le Pergole fotovoltaiche regolano la penetrazione dei raggi solari. Vantaggio, della pergole fotovoltaiche, edilizia libera Detrazione fiscale 50%.">PERGOLE FOTOVOLTAICHE</a></li>-->
 												<li><a href="carport_fotovoltaico.php" title="Pergole carport Roma, Pergole cartort da Giardino Roma" alt="Le Pergole carport regolano la penetrazione dei raggi solari. Vantaggio, della pergole carport, edilizia libera Detrazione fiscale 50%.">CARPORT FOTOVOLTAICO</a></li>
 																																				
 																																				
