@@ -82,7 +82,7 @@
 												<li><a href="pergotende.php" title="Pergotende Roma, Pergole per Balconi, Pergole per Terrazzi" alt="Le pergotende ti permettono di vivere la tua zona living esterna in totale armonia. Puoi scegliere tra diverse combinazioni sia di telo che di movimento per garantirti la copertura che rispecchia le tue esigenze.">Pergotende</a></li>
 												<li><a href="pergole-a-lamelle-orientabili.php" title="Pergole a Lamelle Orientabili Roma, Pergole da Giardino Roma" alt="Le Pergole a Lamelle Orientabili regolano la penetrazione dei raggi solari. Vantaggio, della pergole a lamelle orientabili, edilizia libera Detrazione fiscale 50%.">Pergole a Lamelle Orientabili</a></li>
 												<li><a href="pergola-a-lamelle-orientabili-retraibili.php">Pergole a Lamelle Orientabili Retraibili</a></li>
-												<li><a href="pergola-fotovoltaica.php">Pergole Fotovoltaiche</a></li>
+												<!--<li><a href="pergola-fotovoltaica.php">Pergole Fotovoltaiche</a></li>-->
 												<li><a href="carport_fotovoltaico.php">Carport Fotovoltaico</a></li>
                                                 <li><a href="tende-da-sole.php">Tende da Sole</a></li>
 												<li><a href="frangi-vista.php" title="Frangivista Roma, Frangisole Roma, Frangista in Alluminio Roma" alt="I Frangi Vista sono la giusta soluzione per la tua privacy. Lontani da occhi indiscreti puoi filtrare il tuo sole con diverse inclinazioni. Sono costruiti interamente in alluminio.">Frangi Vista</a></li>
