@@ -124,15 +124,12 @@
                                 a limiti prestabiliti in base al numero di unità familiari:</p>
                             
                                 <br><h3>UNITÀ ABITATIVE </h3>
-                                <br><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unità
-                                    immobiliari inseriti in contesti di edifici plurifamiliari che siano indipendenti e
-                                    dispongano di uno o più accessi autonomi dall'esterno.<br>
+                                <br><strong>50.000€</strong> di spesa massima per edifici unifamiliari o inseriti in contesti plurifamiliari<br>
 
                                 <h3>ZONE COMUNI CONDOMINIALI</h3>
-                                <br><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che
-                                    costituisce un edificio da due a otto unità.
-                                <br><strong>30.000€</strong> di spesa massima per ciascuna unità immobiliare che
-                                    costituisce un edificio con più di otto unità.
+                                <br><strong>50.000€</strong> di spesa massima per edifici unifamiliari o unita' immobiliari inseriti in contesti di edifici plurifamiliari, che siamo indipendenti o dispongano di uno o piu' accessi autonomi dall'esterno
+                                <br><strong>40.000€</strong> di spesa massima per ciascuna unità immobiliare che costituisce un edificio da due a otto unità.
+                                    <br><strong>30.000€</strong> di spesa massima per ciascuna unità immobiliare che costituisce un edificio con più di otto unità.
                             </div>
                         </div>
 
