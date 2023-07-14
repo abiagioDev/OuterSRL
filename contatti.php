@@ -123,9 +123,9 @@
                                                  <li>
 												   <a href="tel:+39065018899" title="Telefono: +39 06 5018899" alt="Telefono: +39 06 5018899">+39 06 5018899</a>
 												 </li>
-												 <li>
+												 <!--<li>
 												   <a href="tel:+390650513467" title="Telefono: +39 06 50513467" alt="Telefono: +39 06 50513467">+39 06 50513467</a>
-												 </li>
+												 </li>-->
                                                 </ul>
                                             </div>
                                         </div>
