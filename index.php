@@ -529,7 +529,7 @@
                                 </div>
                             </div>-->
 
-                            <div class="col-12 col-md-4">
+                           <!--<div class="col-12 col-md-4">
                                 <div class="latest-post mb-40">
                                     <div class="thumb">
                                         <a href="carport_fotovoltaico.php" title="Carport Fotovoltaico Roma"
@@ -551,7 +551,7 @@
                                             più</a>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
 
 
 
