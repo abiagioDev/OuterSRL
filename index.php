@@ -505,7 +505,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-4">
+                            <!--<div class="col-12 col-md-4">
                                 <div class="latest-post mb-40">
                                     <div class="thumb">
                                         <a href="pergola-fotovoltaica.php" title="Pergole Fotovoltaiche Roma"
@@ -527,7 +527,7 @@
                                             di più</a>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
 
                             <div class="col-12 col-md-4">
                                 <div class="latest-post mb-40">
