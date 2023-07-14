@@ -5,7 +5,7 @@
                         <div class="col-12 col-md-6">
                             <div class="header-info">
                                 <span><a href="tel:+39065018899" title="Telefono: +39 065018899" alt="Telefono: +39 065018899">Tel. +39 06 5018899</a></span>
-                                <span><a href="tel:+390650513467" title="Telefono: +39 065018899" alt="Telefono: +39 065018899">Tel. +39 06 50513467</a></span>
+                                <!--<span><a href="tel:+390650513467" title="Telefono: +39 065018899" alt="Telefono: +39 065018899">Tel. +39 06 50513467</a></span>-->
 								<span><a href="mailto:commerciale@outersrl.it" title="Per informazioni puoi scrivere un messaggio a: commerciale@outersrl.it" alt="Per informazioni puoi scrivere un messaggio a: commerciale@outersrl.it">commerciale@outersrl.it</a></</span>
                             </div>
                         </div>
